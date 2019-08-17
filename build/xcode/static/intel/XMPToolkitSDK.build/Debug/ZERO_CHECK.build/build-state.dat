@@ -1,0 +1,29 @@
+TZERO_CHECK
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution CMake\ Rules /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ZERO_CHECK.build/Script-C760EFDA41594881AF8F9826.sh
+
+N/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ZERO_CHECK.build/Script-C760EFDA41594881AF8F9826.sh
+c00000000548298E300000000000000EF
+t1417844963
+s239
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0d374863d032ba41^96404a63d032ba41^---0#1#1#--18"Check dependencies36"AC346B05-3A5B-400B-85B9-FD04B07E7E05-
+
+CPhaseScriptExecution CMake\ Rules /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ZERO_CHECK.build/Script-C760EFDA41594881AF8F9826.sh
+s439537763.290853
+e439537763.361908
+r1
+xPhaseScriptExecution
+xCMake Rules
+x/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ZERO_CHECK.build/Script-C760EFDA41594881AF8F9826.sh
+oecho ""
+o
+omake -f /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeScripts/ReRunCMake.make
+omake[1]: `/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/cmake.check_cache' is up to date.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'130"PhaseScriptExecution CMake\ Rules xcode/static/intel/XMPToolkitSDK.build/Debug/ZERO_CHECK.build/Script-C760EFDA41594881AF8F9826.shdc654b63d032ba41^3eaf5c63d032ba41^-251"echo ""make -f /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeScripts/ReRunCMake.makemake[1]: `/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/cmake.check_cache' is up to date.3(21%IDEActivityLogMessage2@8"echo ""-439537763#0#8#-0#-----2@112"make -f /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeScripts/ReRunCMake.make-439537763#9#112#-0#-----2@130"make[1]: `/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/cmake.check_cache' is up to date.-439537763#121#130#-0#-----0#0#1#--362"PhaseScriptExecution CMake\ Rules xcode/static/intel/XMPToolkitSDK.build/Debug/ZERO_CHECK.build/Script-C760EFDA41594881AF8F9826.sh    cd /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build    /bin/sh -c /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ZERO_CHECK.build/Script-C760EFDA41594881AF8F9826.sh36"C408DDF5-6509-4A4A-A5B7-CCD07B9DD0C3-
+b233EABF4-DF24-4D12-AA9F-EA1936776591
+

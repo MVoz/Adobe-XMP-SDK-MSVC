@@ -1,0 +1,121 @@
+TCompilerIdC
+v6
+r1
+cCheck dependencies
+cCompileC CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.o /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CMakeCCompilerId.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC normal i386
+cPhaseScriptExecution Run\ Script /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000531E748700000000000000AA
+t1394504839
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052A3B560000000000000044C
+t1386460512
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E747000000000000001DE
+t1394504816
+s478
+
+N/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CMakeCCompilerId.c
+c0000000054829850000000000000344F
+t1417844816
+s13391
+
+N/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC
+t2
+s0
+
+N/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.o
+t1417844817
+s3512
+
+N/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CompilerIdC.LinkFileList
+c000000005482985100000000000000B9
+t1417844817
+s185
+
+N/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+c0000000054829851000000000000002A
+t1417844817
+s42
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese25bfcd0cf32ba41^c3f029d1cf32ba41^---0#1#1#--18"Check dependencies36"EB9B2ED1-49EE-49C5-88D8-88AB498451AE-
+
+CCompileC CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.o /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CMakeCCompilerId.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s439537617.167719
+e439537617.445920
+r1
+xCompileC
+xCompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.o
+x/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CMakeCCompilerId.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CMakeCCompilerId.c
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CMakeCCompilerId.c166"CompileC CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.o CMakeCCompilerId.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerd2352bd1cf32ba41^462872d1cf32ba41^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CMakeCCompilerId.c0000000000000000^2785"CompileC CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.o CMakeCCompilerId.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap -I/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/i386 -I/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC -MMD -MT dependencies -MF /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.d --serialize-diagnostics /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.dia -c /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CMakeCCompilerId.c -o /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.o36"90DC239D-83F5-421C-A12F-30B8A4B28FD8-
+b10CBA8F7-CC27-491F-828E-84CFB3875B71
+
+CLd /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC normal i386
+s439537617.446655
+e439537617.533102
+r1
+xLd
+x/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC
+xnormal
+xi386
+d/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CompilerIdC.LinkFileList
+d/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CMakeCCompilerId.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC26"Ld CompilerIdC normal i3861e6b72d1cf32ba41^d17a88d1cf32ba41^---0#0#1#--1187"Ld CompilerIdC normal i386    cd /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC -F/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC -filelist /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CompilerIdC.LinkFileList -mmacosx-version-min=10.9 -Xlinker -dependency_info -Xlinker /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/i386/CompilerIdC_dependency_info.dat -o /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC36"8642844D-3011-4893-A4A4-C19BC98E34B1-
+b10CBA8F7-CC27-491F-828E-84CFB3875B71
+
+CPhaseScriptExecution Run\ Script /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+s439537617.534136
+e439537617.549938
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+oGCC_VERSION=com.apple.compilers.llvm.clang.1_0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'109"PhaseScriptExecution Run\ Script CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh8ffd88d1cf32ba41^2eca8cd1cf32ba41^-47"GCC_VERSION=com.apple.compilers.llvm.clang.1_01(21%IDEActivityLogMessage2@47"GCC_VERSION=com.apple.compilers.llvm.clang.1_0-439537617#0#47#-0#-----0#0#1#--417"PhaseScriptExecution Run\ Script CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh    cd /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC    /bin/sh -c /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/3.0.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh36"BB716143-AF58-4C2F-99B4-AC7C24C86697-
+b10CBA8F7-CC27-491F-828E-84CFB3875B71
+

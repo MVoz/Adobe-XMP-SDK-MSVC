@@ -1,0 +1,4 @@
+/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/ALL_BUILD.dir
+/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/XMPCore/build/xcode/static/intel/CMakeFiles/XMPCoreStatic.dir
+/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/XMPFiles/build/xcode/static/intel/CMakeFiles/XMPFilesStatic.dir
+/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/CMakeFiles/ZERO_CHECK.dir

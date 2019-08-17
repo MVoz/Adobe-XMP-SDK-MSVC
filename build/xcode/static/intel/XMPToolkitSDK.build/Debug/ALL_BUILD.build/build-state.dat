@@ -1,0 +1,29 @@
+TALL_BUILD
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution CMake\ Rules /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ALL_BUILD.build/Script-E921642FFFD84EA792D5852E.sh
+
+N/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ALL_BUILD.build/Script-E921642FFFD84EA792D5852E.sh
+c00000000548298F800000000000000EE
+t1417844984
+s238
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies952a2178d032ba41^c2842178d032ba41^---0#1#1#--18"Check dependencies36"065751F1-6AF7-45C0-8CA6-2D439A38C159-
+
+CPhaseScriptExecution CMake\ Rules /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ALL_BUILD.build/Script-E921642FFFD84EA792D5852E.sh
+s439537784.132250
+e439537784.156698
+r1
+xPhaseScriptExecution
+xCMake Rules
+x/Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ALL_BUILD.build/Script-E921642FFFD84EA792D5852E.sh
+oecho ""
+o
+oecho Build\ all\ projects
+oBuild all projects
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'129"PhaseScriptExecution CMake\ Rules xcode/static/intel/XMPToolkitSDK.build/Debug/ALL_BUILD.build/Script-E921642FFFD84EA792D5852E.sh4f582278d032ba41^751f2878d032ba41^-54"echo ""echo Build\ all\ projectsBuild all projects3(21%IDEActivityLogMessage2@8"echo ""-439537784#0#8#-0#-----2@26"echo Build\ all\ projects-439537784#9#26#-0#-----2@19"Build all projects-439537784#35#19#-0#-----0#0#1#--360"PhaseScriptExecution CMake\ Rules xcode/static/intel/XMPToolkitSDK.build/Debug/ALL_BUILD.build/Script-E921642FFFD84EA792D5852E.sh    cd /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build    /bin/sh -c /Users/thomasz/workspace/XMP-Toolkit-SDK-CC201306/build/xcode/static/intel/XMPToolkitSDK.build/Debug/ALL_BUILD.build/Script-E921642FFFD84EA792D5852E.sh36"E19C04D6-BBF4-4924-8813-743047714EDA-
+bB7589153-E0CD-4BAC-AF9C-5240782FD32E
+
